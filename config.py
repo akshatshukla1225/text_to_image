@@ -1,0 +1,8 @@
+"""
+setx OPENAI_API_KEY "sk-Ya_zUvquXV1_9uE47JcRfgQZZ50Dvyci8e3DcnHVEiT3BlbkFJr5GEycG_RlgfJoUf0q7Foo83hnAgiYlO8SSlpVmekA"
+
+
+"""
+
+key="sk-Ya_zUvquXV1_9uE47JcRfgQZZ50Dvyci8e3DcnHVEiT3BlbkFJr5GEycG_RlgfJoUf0q7Foo83hnAgiYlO8SSlpVmekA"
+
